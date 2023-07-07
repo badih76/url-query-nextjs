@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "First Item",
+        "details": "This is the details section of First Item."
+    },
+    {
+        "id": 2,
+        "title": "Second Item",
+        "details": "This is the details section of Second Item."
+    },
+    {
+        "id": 3,
+        "title": "Third Item",
+        "details": "This is the details section of Third Item."
+    },
+    {
+        "id": 4,
+        "title": "Fourth Item",
+        "details": "This is the details section of Fourth Item."
+    }
+]
